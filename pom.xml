@@ -43,7 +43,7 @@
         <jsoup.version>1.13.1</jsoup.version>
         <jasypt.version>1.9.3</jasypt.version>
         <janino.version>3.1.2</janino.version>
-        <bouncycastle.version>1.62</bouncycastle.version>
+        <bouncycastle.version>1.67</bouncycastle.version>
         <spring-boot.version>2.1.6.RELEASE</spring-boot.version>
         <spring-boot-admin.version>2.1.6</spring-boot-admin.version>
     </properties>
