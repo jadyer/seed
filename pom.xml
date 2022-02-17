@@ -26,7 +26,7 @@
         <commons-lang3.version>3.11</commons-lang3.version>
         <commons-codec.version>1.15</commons-codec.version>
         <commons-fileupload.version>1.4</commons-fileupload.version>
-        <apache.mina.version>2.0.21</apache.mina.version>
+        <apache.mina.version>2.1.5</apache.mina.version>
         <apache.rocketmq.version>2.2.1</apache.rocketmq.version>
         <apache.httpclient.version>4.5.3</apache.httpclient.version>
         <google.zxing.version>2.2</google.zxing.version>
