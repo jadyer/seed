@@ -32,7 +32,7 @@
         <google.zxing.version>2.2</google.zxing.version>
         <alibaba.oss.version>3.11.1</alibaba.oss.version>
         <alibaba.druid.version>1.1.18</alibaba.druid.version>
-        <alibaba.fastjson.version>1.2.74</alibaba.fastjson.version>
+        <alibaba.fastjson.version>1.2.83</alibaba.fastjson.version>
         <beetl.version>2.9.10</beetl.version>
         <jsch.version>0.1.55</jsch.version>
         <hutool.version>4.6.1</hutool.version>
