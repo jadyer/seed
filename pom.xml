@@ -40,7 +40,7 @@
         <jedis.version>2.9.0</jedis.version>
         <redisson.version>3.13.5</redisson.version>
         <jcifs.version>1.3.3</jcifs.version>
-        <jsoup.version>1.13.1</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <jasypt.version>1.9.3</jasypt.version>
         <janino.version>3.1.2</janino.version>
         <bouncycastle.version>1.62</bouncycastle.version>
