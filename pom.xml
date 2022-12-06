@@ -21,7 +21,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <commons-io.version>2.8.0</commons-io.version>
-        <commons-net.version>3.7.1</commons-net.version>
+        <commons-net.version>3.9.0</commons-net.version>
         <commons-text.version>1.9</commons-text.version>
         <commons-lang3.version>3.11</commons-lang3.version>
         <commons-codec.version>1.15</commons-codec.version>
